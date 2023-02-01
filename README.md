@@ -1,1 +1,6 @@
-<built-in method capitalize of str object at 0x7fce4dc54cb0> - version 17.1.0
+# Iosevka-ss14 WebFont 17.1.0
+
+## How to use
+
+- Add `<link href="https://iosevkawebfonts.github.io/Iosevka-ss14/Iosevka-ss14.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka ss14 Web'` or `font-family: 'Iosevka ss14 Web'`.
